@@ -6,3 +6,5 @@ Here are topics that I have covered:
 * Strings
 * Backtracking
 * Recursion
+* Lambda functions
+* Nested loops
