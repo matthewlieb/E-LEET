@@ -1,5 +1,6 @@
 # E-LEET
-Solutions to Leet Code Challenges
+
+This repository contains solutions for Leet Code problems I have solved. Most of my solutions are Python, though I will occassionally attempt to solve the problems using different languages.
 
 Here are topics that I have covered:
 * Arrays
