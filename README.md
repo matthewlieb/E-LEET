@@ -9,3 +9,4 @@ Here are topics that I have covered:
 * Recursion
 * Lambda functions
 * Nested loops
+* Linked lists
