@@ -7,7 +7,6 @@ This repository contains solutions for LeetCode problems I have solved. Most of 
 1. [Problem Solutions](#problem-solutions)
 2. [Topics Covered](#topics-covered)
 3. [Contribution Guidelines](#contribution-guidelines)
-4. [License](#license)
 
 ## 🧩 Problem Solutions
 
@@ -50,7 +49,3 @@ If you would like to contribute to this repository, please follow these steps:
 5. Open a Pull Request.
 
 Please ensure that your code adheres to the style conventions of the existing code and includes appropriate test coverage.
-
-## 📄 License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
